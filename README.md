@@ -1,5 +1,5 @@
 ````markdown
-# 🚀 Nombre del Proyecto
+# 🚀 Tienda Ropa
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-9-red?style=for-the-badge&logo=laravel" />
@@ -13,7 +13,7 @@
 
 # 📖 Descripción
 
-Bienvenido a **Tienda Ropa**, una aplicación web desarrollada con una arquitectura moderna basada en **Laravel 9** para el backend y **React** para el frontend.
+Bienvenido a Tienda Ropa, una aplicación web desarrollada con una arquitectura moderna basada en **Laravel 9** para el backend y **React** para el frontend.
 
 El proyecto está diseñado para ofrecer una API REST robusta y escalable, junto con una interfaz de usuario dinámica, rápida y totalmente responsive.
 
